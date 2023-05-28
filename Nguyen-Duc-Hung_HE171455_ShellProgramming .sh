@@ -1,8 +1,8 @@
 #Assignment: Shell Programming
 #Class ID: SE1811
-#Student ID: HE173108
-#Student Name: Nguyen-Huy-Tam
-#Source File: Nguyen-Huy-Tam_HE173108_ShellProgramming.sh
+#Student ID: HE171455
+#Student Name: Nguyen-Duc-Hung
+#Source File: Nguyen-Duc-Hung_HE171455_ShellProgramming.sh
 #!/bin/bash
 
 while true; do
